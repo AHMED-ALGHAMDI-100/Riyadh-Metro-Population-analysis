@@ -15,7 +15,7 @@ This project performs a high-level **Geospatial Analysis** to evaluate the strat
 The analysis integrates two primary high-fidelity data sources:
 
 1.  **Riyadh Metro Stations (RCRC)**:
-    * **Source**: Riyadh Royal Commission / Saudi Open Data Portal.
+    * **Source**: Riyadh Royal Commission.
     * **Data**: Geospatial coordinates (Latitude/Longitude), official line colors, and station classifications for all 6 lines.
 2.  **High-Resolution Population Density (WorldPop)**:
     * **Source**: WorldPop (University of Southampton).
